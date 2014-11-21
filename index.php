@@ -7,11 +7,7 @@
 
 <body>
 	<header></header>
-<<<<<<< HEAD
-    <section><article><p>broodje kip met ham</p></article></section>
-=======
-    <section><article><p>broodje kip met salamiworst</p></article></section>
->>>>>>> origin/master
-    <footer></footer>
+    	<section><article><p>broodje kip met ham</p></article></section>
+    	<footer></footer>
 </body>
 </html>
