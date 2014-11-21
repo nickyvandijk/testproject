@@ -7,7 +7,7 @@
 
 <body>
 	<header></header>
-    <section><article><p>broodje kip</p></article></section>
+    <section><article><p>broodje kip met ham</p></article></section>
     <footer></footer>
 </body>
 </html>
